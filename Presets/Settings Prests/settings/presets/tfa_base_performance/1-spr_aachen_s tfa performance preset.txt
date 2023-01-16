@@ -1,0 +1,16 @@
+"Spr_Aachen's TFA Performance Preset"
+{
+	"cl_tfa_fx_impact_enabled"		"1"
+	"cl_tfa_fx_ejectionlife"		"15"
+	"cl_tfa_fx_ads_dof_hd"		"0"
+	"cl_tfa_fx_gasblur"		"0"
+	"sv_tfa_fx_penetration_decal"		"1"
+	"cl_tfa_legacy_shells"		"0"
+	"cl_tfa_fx_muzzlesmoke"		"1"
+	"cl_tfa_fx_impact_ricochet_enabled"		"1"
+	"cl_tfa_fx_muzzlesmoke_limited"		"1"
+	"cl_tfa_fx_ads_dof"		"1"
+	"cl_tfa_fx_impact_ricochet_sparklife"		"2.10"
+	"cl_tfa_fx_muzzleflashsmoke"		"1"
+	"cl_tfa_fx_impact_ricochet_sparks"		"6"
+}

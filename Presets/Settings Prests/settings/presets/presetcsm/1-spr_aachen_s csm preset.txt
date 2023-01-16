@@ -1,0 +1,16 @@
+"Spr_Aachen's CSM Preset"
+{
+	"csm_blobbyao"		"0"
+	"csm_further"		"0"
+	"csm_furthershadows"		"1"
+	"csm_localplayershadow"		"1"
+	"csm_perfmode"		"1"
+	"csm_propradiosity"		"4"
+	"csm_sizescale"		"4.20"
+	"csm_spawnalways"		"1"
+	"csm_spawnwithlightenv"		"0"
+	"csm_spread"		"1"
+	"csm_spread_radius"		"0.51"
+	"csm_spread_samples"		"6"
+	"csm_wakeprops"		"1"
+}

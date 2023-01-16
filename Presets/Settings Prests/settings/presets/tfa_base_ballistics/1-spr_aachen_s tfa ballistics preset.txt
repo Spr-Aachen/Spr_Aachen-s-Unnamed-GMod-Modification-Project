@@ -1,0 +1,15 @@
+"Spr_Aachen's TFA Ballistics Preset"
+{
+	"sv_tfa_ballistics_custom_gravity"		"0"
+	"sv_tfa_ballistics_bullet_damping_air"		"1.11"
+	"cl_tfa_ballistics_fx_tracers_adv"		"1"
+	"sv_tfa_ballistics_custom_gravity_value"		"0"
+	"sv_tfa_ballistics_bullet_life"		"11.1"
+	"sv_tfa_ballistics_bullet_velocity"		"1.23"
+	"sv_tfa_ballistics_bullet_damping_water"		"3.33"
+	"sv_tfa_ballistics_mindist"		"-1"
+	"cl_tfa_ballistics_mp"		"1"
+	"cl_tfa_ballistics_fx_bullet"		"1"
+	"cl_tfa_ballistics_fx_tracers_mp"		"1"
+	"cl_tfa_ballistics_fx_tracers_style"		"1"
+}

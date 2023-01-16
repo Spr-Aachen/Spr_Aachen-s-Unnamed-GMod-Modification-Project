@@ -1,0 +1,15 @@
+"Spr_Aachen's TFA Scope Pteset"
+{
+	"cl_tfa_scope_sensitivity_3d"		"2"
+	"cl_tfa_3dscope_quality"		"0"
+	"cl_tfa_ironsights_responsive"		"1"
+	"cl_tfa_ironsights_resight"		"0"
+	"cl_tfa_fx_rtscopeblur_mode"		"1"
+	"cl_tfa_fx_rtscopeblur_passes"		"3"
+	"cl_tfa_ironsights_toggle"		"1"
+	"cl_tfa_3dscope_overlay"		"0"
+	"cl_tfa_scope_sensitivity_autoscale"		"1"
+	"cl_tfa_scope_sensitivity"		"99.9"
+	"cl_tfa_ironsights_responsive_timer"		"0.123"
+	"cl_tfa_fx_rtscopeblur_intensity"		"4.20"
+}

@@ -1,0 +1,1 @@
+These files should go to the garrysmod foler. (Location: Steam\steamapps\common\GarrysMod\garrysmod)

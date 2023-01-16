@@ -1,0 +1,11 @@
+"Spr_Aachen's TFA Inspection GUI Preset"
+{
+	"cl_tfa_inspect_hide_in_screenshots"		"0"
+	"cl_tfa_inspect_newbars"		"0"
+	"cl_tfa_attachments_persist_enabled"		"1"
+	"cl_tfa_inspect_spreadinmoa"		"1"
+	"cl_tfa_inspection_bokeh"		"1"
+	"cl_tfa_inspection_bokeh_radius"		"0.123"
+	"cl_tfa_inspect_hide_hud"		"0"
+	"cl_tfa_inspect_hide"		"0"
+}

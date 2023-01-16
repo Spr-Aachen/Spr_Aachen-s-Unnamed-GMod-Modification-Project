@@ -1,0 +1,15 @@
+{
+	"max_wind": "48",
+	"windmove_props_max": "84",
+	"random_time": "true",
+	"edit_tonemap": "true",
+	"max_temp": "18",
+	"modifyshadows_rate": "0.24",
+	"continue_time": "false",
+	"maplight_max": "84",
+	"wgen_Clear": "��000014400360144007",
+	"moonsize": "21",
+	"min_temp": "-9",
+	"addnight_temp": "-6",
+	"sunyaw": "111"
+}
