@@ -1,4 +1,4 @@
-"Spr_Aachen's TFA Scope Pteset"
+﻿"Spr_Aachen's TFA Scope Pteset"
 {
 	"cl_tfa_scope_sensitivity_3d"		"2"
 	"cl_tfa_3dscope_quality"		"0"

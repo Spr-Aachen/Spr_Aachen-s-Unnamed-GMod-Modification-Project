@@ -1,4 +1,4 @@
-"Spr_Aachen's TFA Admin Preset"
+﻿"Spr_Aachen's TFA Admin Preset"
 {
 	"sv_tfa_bullet_penetration_power_mul"		"1.11"
 	"sv_tfa_dynamicaccuracy"		"1"

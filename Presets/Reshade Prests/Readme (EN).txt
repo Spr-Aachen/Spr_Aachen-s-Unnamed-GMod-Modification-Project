@@ -1,4 +1,4 @@
-Thank you for installing my Reshade Preset.
+﻿Thank you for installing my Reshade Preset.
 
 
 [Requirements] 

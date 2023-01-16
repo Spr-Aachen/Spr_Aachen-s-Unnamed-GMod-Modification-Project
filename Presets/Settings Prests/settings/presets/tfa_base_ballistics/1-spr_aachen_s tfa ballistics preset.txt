@@ -1,4 +1,4 @@
-"Spr_Aachen's TFA Ballistics Preset"
+﻿"Spr_Aachen's TFA Ballistics Preset"
 {
 	"sv_tfa_ballistics_custom_gravity"		"0"
 	"sv_tfa_ballistics_bullet_damping_air"		"1.11"
