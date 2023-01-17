@@ -1,0 +1,3 @@
+﻿"Spr_Aachen's Unarmed SWEP preset"
+{
+}
