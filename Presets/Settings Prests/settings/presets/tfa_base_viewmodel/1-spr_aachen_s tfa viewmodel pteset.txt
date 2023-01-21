@@ -9,7 +9,7 @@
 	"cl_tfa_viewmodel_multiplier_fov"		"1.11"
 	"cl_tfa_viewmodel_offset_y"		"0.00"
 	"cl_tfa_viewmodel_flip"		"0"
-	"cl_tfa_gunbob_invertsway"		"1"
+	"cl_tfa_gunbob_invertsway"		"0"
 	"cl_tfa_gunbob_intensity"		"0.36"
 	"cl_tfa_viewbob_intensity"		"1.11"
 	"cl_tfa_viewmodel_centered"		"0"
